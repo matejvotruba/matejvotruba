@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @matejvotruba
-- 🌱 I’m currently learning Python & Flutter
+- 🌱 I’m currently learning Flutter & Web Development
 
 <!---
 - 👀 I’m interested in ... 
