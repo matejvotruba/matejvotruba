@@ -1,6 +1,4 @@
 - 👋 Hi, I’m @matejvotruba
-- 🌱 I’m currently learning Flutter & Web Development
-
 <!---
 - 👀 I’m interested in ... 
 - 📫 How to reach me ...
